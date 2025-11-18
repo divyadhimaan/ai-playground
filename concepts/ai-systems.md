@@ -94,6 +94,7 @@ Autonomous systems that decide, act, learn, and self-improve.
 | **AI Agents**     | Executes tasks using AI + tools      | Medium   | *Do*           |
 | **Agentic AI**    | Fully autonomous goal-driven systems | High     | *Act + Decide* |
 
+---
 
 ## Glossary
 
